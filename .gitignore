@@ -1,0 +1,8 @@
+#questo e' un commento
+
+#Directory
+temp
+
+#Files
+*.log
+#!debug.log commento l'esempio
